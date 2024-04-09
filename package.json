@@ -1,0 +1,14 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "Fake api",
+  "main": "server.js", 
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "https://github.com/midoriobana/fake-api",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
