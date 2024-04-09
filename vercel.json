@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "handle": "filesystem" },
+    {
+      "src": "/imovel",
+      "dest": "/db.json"
+    },
+    {
+      "src": "/proprietario",
+      "dest": "/db.json"
+    }
+  ]
+}
